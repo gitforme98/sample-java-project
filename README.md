@@ -51,4 +51,8 @@ provides the libraries. Anyone who has the proper development
 environment set up -- one that works across many projects -- should be
 able to clone the repository and do a build simply by running the
 build program with no special arguments. There should be no need to
+
 edit or install anything into the project space for the initial build.
+
+
+push command
